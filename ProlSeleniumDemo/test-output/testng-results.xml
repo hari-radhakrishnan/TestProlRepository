@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23170" started-at="2023-09-06T22:30:13 IST" finished-at="2023-09-06T22:30:37 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23170" started-at="2023-09-06T22:30:13 IST" finished-at="2023-09-06T22:30:37 IST">
+      <class name="com.numeris.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.numeris.NewTest@66d1af89]" name="beforeClass" is-config="true" duration-ms="6529" started-at="2023-09-06T22:30:14 IST" finished-at="2023-09-06T22:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.numeris.NewTest@66d1af89]" name="f" duration-ms="15211" started-at="2023-09-06T22:30:20 IST" finished-at="2023-09-06T22:30:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.numeris.NewTest@66d1af89]" name="afterClass" is-config="true" duration-ms="1341" started-at="2023-09-06T22:30:35 IST" finished-at="2023-09-06T22:30:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.numeris.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
